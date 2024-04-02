@@ -200,14 +200,14 @@ body {
     .page2{
         transform: translate(0,30%);
     }
-    .leftimg div{
+   .leftimg div{
         height: 100px;
         width: 150px;
+        margin: 0 10px 10px 0;
     }
-    .rightimg{
-        height: 200px;
-        width: 150px;
-        overflow: hidden;
+    .rightimg img{
+        height: 210px;
+        width: 140px;
     }
    
 }
